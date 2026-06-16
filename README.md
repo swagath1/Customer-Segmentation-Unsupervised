@@ -2,7 +2,9 @@
 
 > Segmenting customers based on purchasing behaviour using Machine Learning to help businesses make data-driven marketing decisions.
 
----
+### 🌐 Live Demo
+
+🚀 https://customer-segmentation-unsupervised-65jcixprsn4s43rqsfacps.streamlit.app/
 
 ## 📌 Project Overview
 
